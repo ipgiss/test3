@@ -6,3 +6,4 @@ commit test
 add line
 test2
 new branch line
+GUI line
